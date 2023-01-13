@@ -1,2 +1,2 @@
-gcc kitap.c -o <filename>
-./<filename>
+gcc kitap.c -o filename
+./filename
